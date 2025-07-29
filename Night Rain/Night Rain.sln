@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Night Rain", "Night Rain\Night Rain.pyproj", "{1BE2DB09-6CF3-4FC8-8682-F4EDDE2E76DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE2DB09-6CF3-4FC8-8682-F4EDDE2E76DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE2DB09-6CF3-4FC8-8682-F4EDDE2E76DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38414368-47BD-446E-B31F-0D9E1D1FC637}
+	EndGlobalSection
+EndGlobal
